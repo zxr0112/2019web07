@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>190808237张瑞的博客主页</title>
+<style type="text/css">
+	body{
+	margin:0;
+	padding:10px;
+	font-size:20px;
+	color:#84494A;
+}
+#container{	
+	width:80%;
+	min-height:700px;
+	margin:0 auto;
+	padding:50px 50px;
+	background-color:#995B5C;
+}
+h1{
+	text-align:center;
+	font-family:方正姚体,黑体,宋体;
+	font-size:20px;
+	font-weight:bold;
+	color:#F0F;
+}
+h2{
+	font-family:黑体;
+	font-size:20px;
+	font-weight:normal;
+	color:#099;
+}
+p{
+	line-height:2em;	
+}
+.nav{
+	background-color:#9F0;
+	margin-left:15%;
+	margin-right:15%;
+	text-align:center;
+	font-size:18px;
+}
+#tri{
+	width:0;
+	height:0;
+	border:10px solid transparent;
+	border-top-color:#CCC;
+	border-bottom:0;
+}
+.copyright{
+	text-align:center;
+	margin-bottom:10px;
+}
